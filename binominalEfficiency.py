@@ -1,3 +1,8 @@
+'''
+--- July 22nd, 2016
+Script to calculate the binominal efficiency from two values asked to the user
+'''
+
 import math
 from uncertainties import ufloat
 
